@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
+author: "James Richards"
 categories: documentation
 tags: [documentation,sample]
 image: 18_new_print_01.jpg
