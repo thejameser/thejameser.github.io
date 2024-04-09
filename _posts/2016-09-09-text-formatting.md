@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Text Formatting"
-author: "Paul Le"
+author: "James Richards"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: 13_forest.jpg
 ---
 
 # Markdown Support
